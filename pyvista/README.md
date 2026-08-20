@@ -16,4 +16,4 @@ simulation and Blender rendering.
 Gmsh -> MOOSE -> PyVista -> Blender
 
 The repository contains the main workflow scripts used during development.
-Additional verification and utility scripts may be added as the project continues.
+Additional framework characterisation scripts may be added closer to the viva.
